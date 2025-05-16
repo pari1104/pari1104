@@ -1,7 +1,6 @@
 ### -👋 Hi there! I’m Parvina Makhmudova
 💻 Also known as @pari1104
  ### I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Bryden%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Profile Picture -->
 <p align="center">
