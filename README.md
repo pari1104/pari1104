@@ -45,7 +45,7 @@ Hello!I am a junior backend developer. While I don't have much experience yet, I
 
 ---
 
-### 🛠️ Tech Stack
+
 
 ```yaml
 Languages:    Python, HTML, CSS, JavaScript
