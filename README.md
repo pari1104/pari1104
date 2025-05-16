@@ -81,9 +81,12 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 ### 📫 Contact Me
 
 📩 Email: parvinamakhmudova53@gmail.com
-💻 GitHub: pari1104
-💬 Telegram: @Pa_ri11
-🔗 LinkedIn: Makhmudova Parvina
+
+💻 GitHub: https://github.com/pari1104.[@pari1104]
+
+💬 Telegram: https://t.me/Pa_ri11.[Pa_ri11]
+
+🔗 LinkedIn: https://www.linkedin.com/in/pari1104/[Makhmudova Parvina]
 
 
 
