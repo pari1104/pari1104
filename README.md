@@ -7,6 +7,8 @@
    Hi there! I’m Parvina Makhmudova
 💻 Also known as @pari1104
  I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
+ <p align="center">
+  
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF">
@@ -127,22 +129,22 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
-### 📊 GitHub Stats & Activity
-
+## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1dar01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E1dar01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=E1dar01&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
 ---
 
 
