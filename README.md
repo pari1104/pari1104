@@ -28,6 +28,9 @@
 
 ---
 
+
+
+
 ---
 ---
 
@@ -53,13 +56,30 @@ and always try to stay active and involved in every environment I’m part of �
 ---
 
 
-
+### 💡 Skills
 ```yaml
-Languages:    Python, HTML, CSS, JavaScript
-Frameworks:   Django, REST, Vue.js, React
-Databases:    PostgreSQL, SQLite
-Tools:        Docker, Git, GitHub, Linux, Swagger
-Concepts:     Clean Architecture, API Design, Testing, Deployment
+
+
+🖥️ Programming Languages:
+Python, HTML, CSS, JavaScript
+
+🌐 Web Development & Frameworks:
+Django, Django REST Framework (DRF), Flask, Vue.js, React
+
+🗄️ Databases:
+PostgreSQL, MySQL, SQLite, SQL
+
+🔧 Tools & Version Control:
+Git, GitHub, Git Bash, Docker, Swagger
+
+⚙️ Operating Systems:
+Windows, Linux (Ubuntu)
+
+🔌 API Development:
+RESTful API, API Design, Swagger
+
+📚 Concepts & Best Practices:
+Clean Architecture, Testing, Deployment
 ```
 ---
 
