@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Sardor">
+    <meta name="description" content="Mening rasmiy portfolio saytim. Loyihalarim, aloqa ma’lumotlari va xizmatlarim haqida ma’lumot oling.">
+    <meta name="keywords" content="portfolio, veb-dasturlash, web developer, Sardor, dasturchi, frontend, backend, sayt yaratish">
+    <meta name="robots" content="index, follow">
+    <title>Portfolio </title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    animation: {
+                        fadeIn: "fadeIn 1.5s ease-in-out",
+                        scaleUp: "scaleUp 0.3s ease-in-out"
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            "0%": { opacity: 0, transform: "translateY(20px)" },
+                            "100%": { opacity: 1, transform: "translateY(0)" }
+                        },
+                        scaleUp: {
+                            "0%": { transform: "scale(1)" },
+                            "100%": { transform: "scale(1.1)" }
+                        }
+                    }
+                }
+            }
+        };
+    </script>
+    <style>
+        /* 🔥 Navbar link styling */
+        .nav-link {
+            position: relative;
+            font-weight: 600;
+            font-size: 18px;
+            transition: color 0.3s ease-in-out, text-shadow 0.3s ease-in-out;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        }
+        .nav-link:hover {
+            color: #f39c12;
+            text-shadow: 2px 2px 10px rgba(243, 156, 18, 0.8);
+        }
+        .nav-link::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            bottom: -5px;
+            width: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #f39c12, #e74c3c);
+            border-radius: 10px;
+            transition: width 0.4s ease-in-out, left 0.4s ease-in-out;
+        }
+        .nav-link:hover::after {
+            width: 100%;
+            left: 0;
+        }
+
+        /* 🔥 Portfolio kartalar shadow */
+        .project-card {
+            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        .project-card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        /* 🔥 Mobil menyu */
+        .mobile-menu {
+            display: none;
+        }
+        .mobile-menu.active {
+            display: block;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-black transition duration-500">
+
+    <!-- Navbar -->
+    <nav id="navbar" class="flex justify-between items-center p-5 bg-white shadow-lg transition duration-500">
+        <div id="portfolioHeader" class="flex items-center justify-center gap-2 mb-5 transition-all duration-500">
+            <div id="mrCircle"
+                class="w-12 h-12 flex items-center justify-center rounded-full bg-blue-500 text-white font-bold text-xl transition-all duration-500">
+                MR
+            </div>
+            <span id="portfolioText" class="text-2xl font-bold">PROGRAMMER</span>
+        </div>
+        <div class="hidden md:flex space-x-5">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="about.html" class="nav-link">Aboute</a>
+            <a href="index.html" class="nav-link">portfolion</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+        </div>
+
+        <!-- Mobil menyu tugmasi -->
+        <button id="menuBtn" class="md:hidden px-4 py-2 bg-gray-200 rounded-md">☰</button>
+
+        <!-- O'zgarish tugmasi -->
+        <button id="changeTheme" class="px-4 py-2 border border-blue-500 text-blue-500 rounded-md hover:bg-blue-500 hover:text-white transition">Oʻzgarish</button>
+    </nav>
+
+    <!-- Mobil menyu -->
+    <div id="mobileMenu" class="mobile-menu bg-white shadow-md absolute top-16 left-0 w-full p-5">
+        <a href="index.html" class="block p-2 nav-link">Home</a>
+        <a href="about.html" class="block p-2 nav-link">Aboute</a>
+        <a href="index.html" class="block p-2 nav-link">Profile</a>
+        <a href="contact.html" class="block p-2 nav-link">canact</a>
+    </div>
+<!-- Portfolio bo'limi -->
+<section id="portfolio" class="container mx-auto p-10 transition-all duration-500">
+   
+    <h1 id="portfolioTitle" class="text-3xl font-bold text-center mb-10 transition-all duration-500">
+        Mening Loyihalarim
+    </h1>
+
+    <div id="projects" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Quoz Game -->
+        <a href="https://bilimuz-sigma.vercel.app/" target="_blank"
+            class="project-card bg-white p-6 rounded-lg shadow-lg transition-all duration-500">
+            <img src="quzgame.jpg" alt="Quoz Game"
+                class="w-full h-48 object-cover rounded-md mb-4">
+            <h2 class="text-xl font-semibold text-center">Quoz Game</h2>
+        </a>
+
+        <!-- X-O O‘yini -->
+        <a href="https://x-0-oyini.vercel.app/" target="_blank"
+            class="project-card bg-white p-6 rounded-lg shadow-lg transition-all duration-500">
+            <img src="oyin.jpg" alt="X-O O‘yini"
+                class="w-full h-48 object-cover rounded-md mb-4">
+            <h2 class="text-xl font-semibold text-center">X-O O‘yini</h2>
+        </a>
+
+        <!-- Matematika savollari -->
+        <a href="https://matimatika-zuut.vercel.app/" target="_blank"
+            class="project-card bg-white p-6 rounded-lg shadow-lg transition-all duration-500">
+            <img src="matimatika.jpg" alt="Matematika savollari"
+                class="w-full h-48 object-cover rounded-md mb-4">
+            <h2 class="text-xl font-semibold text-center">Matematika Savollari</h2>
+        </a>
+    </div>
+</section>
+
+
+<script>
+    document.getElementById("changeTheme").addEventListener("click", function () {
+        document.body.classList.toggle("bg-gray-900");
+        document.body.classList.toggle("text-white");
+
+        let projects = document.getElementById("projects").children;
+        for (let i = 0; i < projects.length; i++) {
+            projects[i].classList.toggle("bg-gray-800");
+            projects[i].classList.toggle("shadow-2xl");
+            projects[i].classList.toggle("text-white");
+        }
+
+        // Sarlavhalarning rangi ham o'zgaradi
+        let title = document.getElementById("portfolioTitle");
+        let header = document.getElementById("portfolioHeader");
+        
+        title.classList.toggle("text-white");
+        header.classList.toggle("text-white");
+
+        // "MR" dumaloq div va "PROGRAMMER" matnini o'zgartirish
+        let mrCircle = document.getElementById("mrCircle");
+        let portfolioText = document.getElementById("portfolioText");
+
+        mrCircle.classList.toggle("bg-red-500");
+        mrCircle.classList.toggle("bg-blue-500");
+        portfolioText.classList.toggle("text-red-500");
+        portfolioText.classList.toggle("text-blue-500");
+    });
+</script>
+
+</body>
+</html>
