@@ -4,9 +4,9 @@
 <!-- Profile Picture -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
-  ### -👋 Hi there! I’m Parvina Makhmudova
+   Hi there! I’m Parvina Makhmudova
 💻 Also known as @pari1104
- ### I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
+ I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF">
