@@ -57,7 +57,7 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 ---
 
 
-###Education____
+### Education____
                                           
 - LGEK College – Accounting (currently studying)
 -Focused on financial management, bookkeeping, and accounting fundamentals.
