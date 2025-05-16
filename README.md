@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @pari1104
-# Hi there! 👋 I'm Parvina
+### -👋 Hi there! I’m Parvina
+💻 Also known as @pari1104
+ ### I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF">
@@ -30,9 +31,15 @@
 ---
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
+👋 Hello!
+I am a junior backend developer. 🧑‍💻💻
+While I don't have much experience yet,
+I am highly motivated to learn 📚✨ and grow through practical work 🔧🚀.
 
-Hello!I am a junior backend developer. While I don't have much experience yet, I am highly motivated to learn new technologies and grow through practical work. I am proactive, hardworking, and constantly strive to improve myself. I work well with others, communicate effectively, and always try to stay active and involved in every environment I’m part of.
+I am proactive, hardworking, and always striving to improve myself 💪📈.
+I work well with others 🤝, communicate effectively 🗣️,
+and always try to stay active and involved in every environment I’m part of 🌟🌍.
 ###                       🛠️  Tech Stac
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,21 +66,24 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 ### Education____
                                           
-- LGEK College – Accounting (currently studying)
--Focused on financial management, bookkeeping, and accounting fundamentals.
--ICT4Girls Project – 6-month IT course (currently enrolled)
--Aimed at developing practical skills in IT and programming.
--1-month Computer Course – 2024
--Gained foundational knowledge in computer systems and software.
--Various Online Courses
--Completed multiple online courses to strengthen skills in programming, software, and IT fields.
+🎓 LGEK College – Accounting (currently studying)
+📊 Focused on financial management, bookkeeping, and accounting fundamentals.
+
+💻 ICT4Girls Project – 6-month IT course (currently enrolled)
+🚀 Aimed at developing practical skills in IT and programming.
+
+🖥️ 1-month Computer Course – 2024
+📘 Gained foundational knowledge in computer systems and software.
+
+🌐 Various Online Courses
+✅ Completed multiple courses to strengthen skills in programming, software, and IT fields.
 
 ### 📫 Contact Me
 
-- Email: parvinamakhmudova53@gmail.com
-- GitHub: [pari1104](https://github.com/pari1104)  
-- Telegram: [@Pa_ri11](https://t.me/Pa_ri11)  
-- LinkedIn: [Makhmudova Parvina ](https://www.linkedin.com/in/pari1104/)
+📩 Email: parvinamakhmudova53@gmail.com
+💻 GitHub: pari1104
+💬 Telegram: @Pa_ri11
+🔗 LinkedIn: Makhmudova Parvina
 
 
 
