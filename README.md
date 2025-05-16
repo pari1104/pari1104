@@ -84,7 +84,7 @@ pari1104/pari1104 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 
---->🛠️ Tech Stac
+--->
 ### 📊 GitHub Stats & Activity
 
 
