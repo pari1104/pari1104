@@ -38,3 +38,20 @@ Hello! I'm Pari, a passionate developer and tech enthusiast who loves exploring 
 pari1104/pari1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### 📊 GitHub Stats & Activity
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1dar01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E1dar01&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=E1dar01&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
