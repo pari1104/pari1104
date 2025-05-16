@@ -88,14 +88,18 @@ Clean Architecture, Testing, Deployment
 🎓 LGEK College – Accounting (currently studying)
 📊 Focused on financial management, bookkeeping, and accounting fundamentals.
 
+
 💻 ICT4Girls Project – 6-month IT course (currently enrolled)
 🚀 Aimed at developing practical skills in IT and programming.
+
 
 🖥️ 1-month Computer Course – 2024
 📘 Gained foundational knowledge in computer systems and software.
 
+
 🌐 Various Online Courses
 ✅ Completed multiple courses to strengthen skills in programming, software, and IT fields.
+
 
 ### 📫 Contact Me
 
