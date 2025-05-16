@@ -84,8 +84,7 @@ Clean Architecture, Testing, Deployment
 ---
 
 
-### Education____
-                                          
+### 🎓Education💻                                           
 🎓 LGEK College – Accounting (currently studying)
 📊 Focused on financial management, bookkeeping, and accounting fundamentals.
 
