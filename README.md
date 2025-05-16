@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <!-- Эгер дагы негизги технологияларыңыз болсо, бул жерге кошуңуз. Мисалы, Django же React -->
+  <!-- Эгер дагы негизги технологияларыңыз болсо, бул жерге кошуңуз. Мисалы, Django же React 
   <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/> -->
 </p>
 
@@ -32,8 +32,8 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm Pari, a passionate developer and tech enthusiast who loves exploring new technologies and building innovative solutions. My GitHub profile is a reflection of my journey in the world of programming, showcasing projects that range from beginner experiments to complex applications.
-### 🛠️ Tech Stack
+Hello!I am a junior backend developer. While I don't have much experience yet, I am highly motivated to learn new technologies and grow through practical work. I am proactive, hardworking, and constantly strive to improve myself. I work well with others, communicate effectively, and always try to stay active and involved in every environment I’m part of.
+###                       🛠️  Tech Stac
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -43,13 +43,48 @@ Hello! I'm Pari, a passionate developer and tech enthusiast who loves exploring 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages:    Python, HTML, CSS, JavaScript
+Frameworks:   Django, REST, Vue.js, React
+Databases:    PostgreSQL, SQLite
+Tools:        Docker, Git, GitHub, Linux, Swagger
+Concepts:     Clean Architecture, API Design, Testing, Deployment
+```
+---
+
+
+###Education____
+                                          
+- LGEK College – Accounting (currently studying)
+-Focused on financial management, bookkeeping, and accounting fundamentals.
+-ICT4Girls Project – 6-month IT course (currently enrolled)
+-Aimed at developing practical skills in IT and programming.
+-1-month Computer Course – 2024
+-Gained foundational knowledge in computer systems and software.
+-Various Online Courses
+-Completed multiple online courses to strengthen skills in programming, software, and IT fields.
+
+### 📫 Contact Me
+
+- Email: parvinamakhmudova53@gmail.com
+- GitHub: [pari1104](https://github.com/pari1104)  
+- Telegram: [@Pa_ri11](https://t.me/Pa_ri11)  
+- LinkedIn: [Makhmudova Parvina ](https://www.linkedin.com/in/pari1104/)
+
+
+
+
 
 <!---
 pari1104/pari1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 
---->
+--->🛠️ Tech Stac
 ### 📊 GitHub Stats & Activity
 
 
@@ -67,3 +102,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+
+
