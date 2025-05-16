@@ -1,4 +1,4 @@
-### -👋 Hi there! I’m Parvina
+### -👋 Hi there! I’m Parvina Makhmudova
 💻 Also known as @pari1104
  ### I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
 
