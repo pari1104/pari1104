@@ -131,19 +131,19 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 📈 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3" alt="GitHub Trophies" />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sayranfs&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117" alt="Sayran Felix github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayranfs&layout=compact&hide_border=true&title_color=4169e1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sayranfs&theme=algolia&row=2&no-bg=true&column=3&margin-w=12&margin-h=12" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical" alt="GitHub Streak" />
-</p>
-
+<div align="center">  
+<a href="https://www.instagram.com/sayranfelix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
 ---
 ---
 
