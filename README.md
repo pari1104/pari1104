@@ -107,7 +107,9 @@ Clean Architecture, Testing, Deployment
 
 🌐 Various Online Courses
 ✅ Completed multiple courses to strengthen skills in programming, software, and IT fields.
+ ## 🔥 Highlight
 
+![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### 📫 Contact Me
 
