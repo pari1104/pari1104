@@ -141,6 +141,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+<!-- Top Languages -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqAhamed17&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical" alt="GitHub Streak" />
