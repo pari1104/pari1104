@@ -142,7 +142,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshiqAhamed17&theme=dracula)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pari1104&theme=dracula)  
 
 ---
 
