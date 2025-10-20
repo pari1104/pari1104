@@ -9,6 +9,9 @@
  I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
  <p align="center">
   
+<div align="center">
+<img https://drive.google.com/file/d/13lMUgUnzDhY_hTGMXOLZTMw-YAvWVcyK/view?usp=sharing/>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF">
