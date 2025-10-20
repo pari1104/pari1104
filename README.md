@@ -9,9 +9,7 @@
  I’m a junior backend developer passionate about learning, coding, and building real-world projects. 🚀
  <p align="center">
   
-<div align="center">
-<img src="https://drive.google.com/file/d/13lMUgUnzDhY_hTGMXOLZTMw-YAvWVcyK/view?usp=sharing" />
-</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF">
@@ -126,7 +124,13 @@ Clean Architecture, Testing, Deployment
 
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtayyabrawan&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
+<p align="center">
+  <img src="https://holopin.me/muhammadtayyabawan" alt="Holopin Badges" />
+</p>
 
 <!---
 pari1104/pari1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
