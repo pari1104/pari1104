@@ -123,11 +123,11 @@ Clean Architecture, Testing, Deployment
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtayyabrawan&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvona&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://holopin.me/muhammadtayyabawan" alt="Holopin Badges" />
+  <img src="https://holopin.me/pari1104" alt="Holopin Badges" />
 </p>
 
 <!---
