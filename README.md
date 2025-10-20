@@ -10,8 +10,7 @@
  <p align="center">
   
 <div align="center">
-<img src=".<img width="512" height="709" alt="Screenshot 2025-10-20 220357" src="https://github.com/user-attachments/assets/acd26776-9836-4135-920b-b0876be80b7a" />
-"/>
+<img src="https://drive.google.com/file/d/13lMUgUnzDhY_hTGMXOLZTMw-YAvWVcyK/view?usp=sharing" />
 </div>
 
 <p align="center">
